@@ -1,0 +1,14 @@
+{
+  "name": "max-profit-problem",
+  "version": "1.0.0",
+  "description": "Dynamic programming solution for the Max Profit Problem",
+  "main": "solution.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node solution.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
