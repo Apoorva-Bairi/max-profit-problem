@@ -89,8 +89,3 @@ and processed.
 - Construction cannot occur in parallel.
 - Construction costs are not specified.
 - Buildings with zero operational time are excluded.
-
-## AI Assistance
-
-ChatGPT assisted with the initial implementation,
-test cases and documentation.
