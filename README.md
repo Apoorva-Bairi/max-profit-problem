@@ -1,5 +1,5 @@
 
-# Max Profit Problem
+# Max Profit Problem -1
 
 EverQuint Interview Assignment – Task 3
 
